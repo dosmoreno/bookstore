@@ -36,7 +36,7 @@ The API handles the creation of orders and calculates pricing using different st
    First, clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/bookstore-api.git
+   git clone https://github.com/dosmoreno/bookstore.git
    cd bookstore-api
    ```
 
