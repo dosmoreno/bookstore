@@ -37,7 +37,7 @@ The API handles the creation of orders and calculates pricing using different st
 
    ```bash
    git clone https://github.com/dosmoreno/bookstore.git
-   cd bookstore-api
+   cd bookstore
    ```
 
 2. **Install Dependencies**
